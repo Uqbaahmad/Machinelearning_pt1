@@ -14,9 +14,11 @@
             - boxplot
             - violinplot
         - Categorical estimate plots
-            - pointplot
             - barplot
             - countplot
         - Categorical categorical plot
-            - heatmaps
-            - clustermaps                    
+            - heatmap
+            - clustermap    
+        - Jointplot                
+        - Pairplot    
+        - Distplots
